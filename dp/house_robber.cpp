@@ -4,6 +4,7 @@
 #include <iostream>
 #include <vector>
 using namespace std;
+int rob1(vector <int >)
 /*
  * Dynamic Programming
  *
