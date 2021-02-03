@@ -5,7 +5,7 @@ using namespace std;
 // {
 //     return a + b;
 // }
-template <class bucky>
+template <class bucky> //building a generic type of data
 bucky addCrap(bucky a, bucky b){
     return a+b;
 }
